@@ -3,6 +3,8 @@
 
 # clinch
 
+[![Join the chat at https://gitter.im/Meettya/clinch](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Meettya/clinch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 YA ComonJS to browser packer tool, well-suited for tiny widgets by small overhead and big app by module replacement, node-environment emulations and multi-exports.
 
 ## what in a box?
